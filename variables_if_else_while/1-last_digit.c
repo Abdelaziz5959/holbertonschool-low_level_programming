@@ -15,6 +15,7 @@ int main(void)
 
 {
 	int n;
+
 	int last digit;
 
 	srand (time(0));
